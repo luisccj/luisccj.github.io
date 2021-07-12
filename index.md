@@ -1,4 +1,7 @@
-## Welcome to My Page
+## In this page we can talk about:
+- Arduino
+- Climbing
+- Finance
 
 <!-- You can use the [editor on GitHub](https://github.com/luisccj/luisccj.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
