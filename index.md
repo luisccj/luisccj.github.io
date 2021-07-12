@@ -1,5 +1,4 @@
 ## Welcome to My Page
-### Massa, começando a mostrar esses Guéris pro mundo!
 
 <!-- You can use the [editor on GitHub](https://github.com/luisccj/luisccj.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
